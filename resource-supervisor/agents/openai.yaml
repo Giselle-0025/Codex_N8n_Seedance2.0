@@ -1,0 +1,4 @@
+interface:
+  display_name: "资源监制"
+  short_description: "监制人物换装、物料与场景，生成统一连续的视觉资产"
+  default_prompt: "使用 $resource-supervisor 分析我上传的剧本和创作风格，监制人物换装、物料与场景，并生成人物16:9四视图、物料图、场景四视图和资源登记表。"
