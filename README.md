@@ -1,2 +1,1 @@
-# Hello-World-Giselle
-The first step to success!
+# AIGC漫剧Agentic WorkFlow说明
